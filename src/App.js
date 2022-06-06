@@ -1,6 +1,7 @@
 import styled from 'styled-components'
 import Console from './components/Console'
 import Title from './components/Title'
+import './App.css'
 
 const AppWrapper = styled.div`
   background: black;
